@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #CCD5AE;
+}
+
+code {
+    font-family: 'Encode Sans SC', sans-serif;
+    color: #89375F;
+}
